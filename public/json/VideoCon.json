@@ -1,0 +1,52 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "state": false,
+      "name": "展业夹测试视频004",
+      "pic": "/image/private/video_pic01.png",
+      "record": "",
+      "correlation": "",
+      "First_column": "",
+      "second_column": "",
+      "label": "",
+      "Page_views": 0
+    },
+    {
+      "id": 2,
+      "state": false,
+      "name": "展业夹测试视频004",
+      "pic": "/image/private/video_pic02.jpg",
+      "record": "",
+      "correlation": "",
+      "First_column": "",
+      "second_column": "",
+      "label": "",
+      "Page_views": 0
+    },
+    {
+      "id": 3,
+      "state": false,
+      "name": "展业夹测试视频004",
+      "pic": "/image/private/video_pic03.jpg",
+      "record": "",
+      "correlation": "",
+      "First_column": "",
+      "second_column": "",
+      "label": "",
+      "Page_views": 0
+    },
+    {
+      "id": 4,
+      "state": false,
+      "name": "展业夹测试视频004",
+      "pic": "/image/private/video_pic04.jpg",
+      "record": "",
+      "correlation": "",
+      "First_column": "",
+      "second_column": "",
+      "label": "",
+      "Page_views": 0
+    }
+  ]
+}
